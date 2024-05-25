@@ -38,15 +38,15 @@
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=NicolasRaf&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRaf&hide_border=true&layout=compact" align="left" />  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=NicolasRaf&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
 
-<br/>  
+</td><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=NicolasRaf&show_icons=true&count_private=true&hide_border=true" align="left" />
 
-## Recent Blog Posts  
-  
+</td></tr></table>  
 
 <br/>  
 
@@ -57,9 +57,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NicolasRaf&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
 
 <br />
