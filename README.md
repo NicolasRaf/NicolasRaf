@@ -21,9 +21,7 @@
 
 - 📚Currently studying ADS at IFPI  
   
-
 <br/>  
-
 
 ### Languagues  
 <div align="center">  
