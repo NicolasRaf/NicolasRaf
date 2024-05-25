@@ -40,12 +40,12 @@
 
 ## Github Stats  
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRaf&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=NicolasRaf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NicolasRaf&show_icons=true&count_private=true&hide_border=true" align="left" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasRaf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="" alt="languages graph"  />
+</div>
 
 </td></tr></table>  
 
