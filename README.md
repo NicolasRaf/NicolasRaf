@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
 <a href=" https://nicolasraf.itch.io" target="_blank">
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" alt="Itch.io"/>
+<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
 </div>  
   
 
