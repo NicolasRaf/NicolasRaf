@@ -9,6 +9,9 @@
 <a href="https://nicolasraf.itch.io" target="_blank">
  <img src=https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white alt="Itch.io" style="margin-bottom: 5px;" />
 </a> 
+<a href="https://www.linkedin.com/in/nicolas-rafael-2992172b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>  
   
 
