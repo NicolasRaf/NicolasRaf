@@ -35,6 +35,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="godot logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+<a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="45" height="45"/></a>
 <img width="15" />
 </div>  
 
