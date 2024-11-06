@@ -55,14 +55,6 @@
       </td>
     </tr>
     <tr>
-      <!-- Streak de contribuições -->
-      <td colspan="2">
-        <div align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasRaf&theme=gotham&hide_border=true" alt="Streak Stats" />
-        </div>
-      </td>
-    </tr>
-    <tr>
       <!-- Resumo de conquistas -->
       <td colspan="2">
         <div align="center">
