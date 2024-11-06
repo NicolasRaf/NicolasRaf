@@ -78,5 +78,5 @@
 
 <!-- Elemento final centralizado -->
 <div align="center">
-  <p>Obrigado por visitar meu perfil!</p>
+  <p>Thank you for visiting my profile!</p>
 </div>
