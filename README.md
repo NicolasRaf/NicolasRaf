@@ -21,9 +21,10 @@
   <img src="https://www.icegif.com/wp-content/uploads/icegif-1791.gif" align="center" style="width: 100%;" />
 </div>  
 
-### <div align="center">I'm a beginner programmer from Brazil👾</div>  
+### <div align="center">I'm a beginner programmer from Brazil, motivated to explore new technologies and hone my skills to create innovative solutions.👾</div>  
 
-- 📚Currently studying ADS at IFPI  
+- 📚Currently studying Analysis and development of systems(ADS) at IFPI on second period
+- 💻Researcher and game and software programmer at [LABIRAS](https://github.com/LabirasIFPI)
 
 <br/>  
 
