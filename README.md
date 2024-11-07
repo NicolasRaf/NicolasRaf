@@ -18,7 +18,7 @@
 
 <!-- GIF centralizado -->
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/icegif-1791.gif" align="center" style="width: 100%;" />
+  <img src="https://i.pinimg.com/originals/e6/1d/7c/e61d7cbef7f6f744cc85204b8d619480.gif" align="center" style="width: 100%;" />
 </div>  
 
 ### <div align="center">I'm a beginner programmer from Brazil, motivated to explore new technologies and hone my skills to create innovative solutions.👾</div>  
