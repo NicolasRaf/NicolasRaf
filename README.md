@@ -23,7 +23,7 @@
 
 ### <div align="center">I'm a beginner programmer from Brazil, motivated to explore new technologies and hone my skills to create innovative solutions.👾</div>  
 
-- 📚Currently studying Analysis and development of systems(ADS) at IFPI on third period
+- 📚Currently studying Analysis and development of systems(ADS) at IFPI on fourth period
 - 💻Researcher and game and software programmer at [LABIRAS](https://github.com/LabirasIFPI)
 
 <br/>  
