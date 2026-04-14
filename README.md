@@ -29,19 +29,40 @@
 <br/>  
 
 ### Skills & Technologies  
-<div align="center">  
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="45" alt="C" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" style="margin: 5px;" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="Godot" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" style="margin: 5px;" />
-</div>  
 
-<br/> 
+#### 🖥️ Programming Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
+
+#### 📟 Embedded Systems & IoT
+<div align="left">
+  <img src="https://img.shields.io/badge/FreeRTOS-2C3E50?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="RP Pico" />
+  <img src="https://img.shields.io/badge/LoRaWAN-0077B5?style=flat-square&logo=lora&logoColor=white" alt="LoRaWAN" />
+</div>
+
+#### 🌐 Web Development (Front & Back)
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
+</div>
+
+#### 🛠️ Design, Simulation & Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/KiCad-314E9F?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/Fusion_360-EA2124?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360" />
+  <img src="https://img.shields.io/badge/NS--3-FDB813?style=flat-square&logo=network&logoColor=black" alt="NS-3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<br/>
 
 ## Github Stats  
 
