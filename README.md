@@ -1,4 +1,3 @@
-<!-- Links para redes sociais -->
 <div align="center">
   <a href="https://instagram.com/nicolas_rafaell_" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
@@ -16,30 +15,33 @@
 
 <br/>  
 
-<!-- GIF centralizado -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/e6/1d/7c/e61d7cbef7f6f744cc85204b8d619480.gif" align="center" style="width: 100%;" />
 </div>  
 
-### <div align="center">I'm a beginner programmer from Brazil, motivated to explore new technologies and hone my skills to create innovative solutions.👾</div>  
+### <div align="center">Software Developer | IoT & Embedded Systems Enthusiast 👾</div>  
 
-- 📚Currently studying Analysis and development of systems(ADS) at IFPI on fifth period
-- 💻Researcher and game and software programmer at [LABIRAS](https://github.com/LabirasIFPI)
+- 📚 Currently in the 5th period of Analysis and Systems Development (ADS) at IFPI.
+- 🔌 **Former IoT Resident at EmbarcaTech (SOFTEX/MCTI)**, where I developed hardware and firmware solutions for industrial demands.
+- 💻 Researcher and Developer at **[LABIRAS](https://github.com/LabirasIFPI)**.
+- 📡 Focused on LoRaWAN scalability and high-density network simulations using NS-3 (TCC).
 
 <br/>  
 
-<!-- Seção de linguagens -->
-### Languages  
+### Skills & Technologies  
 <div align="center">  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="godot logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
-  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="50" height="50"/></a>
-  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png?raw=true" alt="C++" width="40" height="45"/></a>
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="45" alt="C" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" style="margin: 5px;" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="Godot" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" style="margin: 5px;" />
 </div>  
 
-<br/>  
+<br/> 
 
 ## Github Stats  
 
