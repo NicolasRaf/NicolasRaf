@@ -16,19 +16,21 @@
 <br/>  
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e6/1d/7c/e61d7cbef7f6f744cc85204b8d619480.gif" align="center" style="width: 100%;" />
+  <img src="https://i.pinimg.com/originals/e6/1d/7c/e61d7cbef7f6f744cc85204b8d619480.gif" align="center" style="width: 100%; max-width: 600px;" />
 </div>  
+
+<br/>
 
 ### <div align="center">Software Developer | IoT & Embedded Systems Enthusiast 👾</div>  
 
 - 📚 Currently in the 5th period of Analysis and Systems Development (ADS) at IFPI.
-- 🔌 **Former IoT Resident at EmbarcaTech (SOFTEX/MCTI)**, where I developed hardware and firmware solutions for industrial demands.
-- 💻 Researcher and Developer at **[LABIRAS](https://github.com/LabirasIFPI)**.
+- 🔌 **Former IoT Resident at EmbarcaTech (SOFTEX/MCTI)**, where I developed hardware and firmware solutions from end-to-end for industrial demands.
+- 💻 Researcher and Developer at **[LABIRAS](https://github.com/LabirasIFPI)**, creating data visualization interfaces with Godot and real-time systems.
 - 📡 Focused on LoRaWAN scalability and high-density network simulations using NS-3 (TCC).
 
-<br/>  
+<br/>
 
-### Skills & Technologies  
+### 💻 Skills & Technologies  
 
 #### 🖥️ Programming Languages
 <div align="left">
@@ -36,7 +38,17 @@
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
+
+#### 🌐 Web Development (Front & Back)
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
 </div>
 
 #### 📟 Embedded Systems & IoT
@@ -44,14 +56,8 @@
   <img src="https://img.shields.io/badge/FreeRTOS-2C3E50?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="RP Pico" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/LoRaWAN-0077B5?style=flat-square&logo=lora&logoColor=white" alt="LoRaWAN" />
-</div>
-
-#### 🌐 Web Development (Front & Back)
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
 </div>
 
 #### 🛠️ Design, Simulation & Tools
@@ -62,28 +68,31 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
+#### 🐧 DevOps & Infrastructure
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+</div>
+
 <br/>
 
-## Github Stats  
+## 📊 Github Stats  
 
-<!-- Estatísticas agrupadas -->
 <div align="center">
   <table>
     <tr>
-      <!-- Principais linguagens -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRaf&hide_border=true&layout=compact&theme=gotham" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRaf&hide_border=true&layout=compact&theme=gotham" alt="Top Langs" />
       </td>
-      <!-- Estatísticas gerais -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=NicolasRaf&show_icons=true&count_private=true&hide_border=true&theme=gotham" />
+        <img src="https://github-readme-stats.vercel.app/api?username=NicolasRaf&show_icons=true&count_private=true&hide_border=true&theme=gotham" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
-      <!-- Resumo de conquistas -->
       <td colspan="2">
         <div align="center">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasRaf&theme=github_dark" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasRaf&theme=github_dark" alt="Profile Details" />
         </div>
       </td>
     </tr>
@@ -92,15 +101,12 @@
 
 <br />
 
-
-<!-- Contador de visitas -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NicolasRaf&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=NicolasRaf&&style=flat-square" align="center" alt="Profile Views" />
 </div>  
 
 <br />
 
-<!-- Elemento final centralizado -->
 <div align="center">
-  <p>Thank you for visiting my profile!</p>
+  <p>Thank you for visiting my profile! 🚀</p>
 </div>
